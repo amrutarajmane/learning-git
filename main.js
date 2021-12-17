@@ -1,1 +1,1 @@
-console.log("amruta rajmane");
+console.loSg("amruta rajmane");
